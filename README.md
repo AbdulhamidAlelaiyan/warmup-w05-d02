@@ -26,4 +26,4 @@ Find out the difference between:
 - **Explicit binding**
 
 ---
-[Helpful Read](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes)
+[Helpful Read](https://medium.com/@koheiarai94/notes-from-you-dont-know-js-this-object-prototypes-663f2df100bc)
